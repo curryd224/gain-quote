@@ -1,0 +1,29 @@
+{
+  "name": "gain-quote",
+  "version": "1.0.0",
+  "description": "This module provides utilities for fetching random quotes and manipulating strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "<repository_url>"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "need-uuid-utils": "1.0.0",
+    "etheric-beacon-lose": "1.0.0",
+    "pop-cryptic-utils": "1.0.0",
+    "tax-date-time": "1.0.0",
+    "zenkit-chat": "1.0.0",
+    "essence-step": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "<repository_url>/issues"
+  },
+  "homepage": "<repository_url>#readme"
+}
